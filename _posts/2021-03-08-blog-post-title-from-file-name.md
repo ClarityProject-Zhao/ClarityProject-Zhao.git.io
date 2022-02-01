@@ -1,36 +1,10 @@
-## Test
+## 2022/1/31
 
-This is a test....
+Everything works in cycles.
 
+While being a business owner seems to be the winning formula to accumulate wealth these days, one needs to remember that corporations are not always the pillars of an economy. The economy used to function around small business owners. It was not until the 'Gilded Age' that large corporations took over the driver seat of productivity growth.
+And the reason is simple - the need for economy of scale in order to boost productivity. Productivity per unit was limited when everyone had to be a 'Jack of all trades. A centralized process forces people to specialize but was able to improve per unit of output, increase profit margin, and benefit everyone as a result. People understood what they gave up. The labor force shifted to organize around big corporations for a reason: when the livelihood was on the line, no one could afford to think about passion, self-growth, flexible schedule, and all those that make us both hopeful and anxious.
 
+Is it still the case today? We live in an age in which technology has unleashed an abundant amount of productivity per capita. With the help of technology, people can produce pretty everything they need to make money in a very effective way. The marginal gain from 'specializing' as a way to improve revenue outweighs the cost. Being an asset owner gives you much more significant leverage and a much larger reward. Even from a business perspective, the growth no longer relies on the sheer volume of labor. Mega-cap corporations that add value by bringing people together seem neither desired nor needed.
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+Does that mean the pendulum finally swings back, and we are indeed in the age of a 'decentralized' economy? What will the future look like then? As innovation replaces labor input to become the most crucial element of the growth equation, the ongoing innovation should help us peek into the future. With De-fi as one of the hottest trends these days, one may conclude that this is where the future lies. Team 'Defi' promised us more efficient use of capital by removing the intermediaries and a new type of economy driven by creators and data/IP protection. It is also noble to think that we now have a solution to support the creators directly and no longer need to worry about the greedy corporation swallowing most of the benefits by serving as the intermediaries. These all sound right in theory. However, the question we need to ask is: as such 'creativity' becomes the fuel of the economy, whether it will be enough to sustain growth? To me, this 'creator economy' that people are enthusiastic about, at least in its current forms, centers around arts and entertainment. These areas can certainly drive a big chunk of GDP during good times, but they can hardly be counted on during bad times. These are luxuries rather than necessities. No one wants to think about the times when we can no longer 'afford' these things. But again, everything works in cycles. 
