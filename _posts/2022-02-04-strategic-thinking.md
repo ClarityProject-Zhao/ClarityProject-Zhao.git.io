@@ -1,4 +1,4 @@
-##2022/02/04
+## Strategic Thinking
 
 Society nowadays rewards strategic thinking much more than most people realize. In a way, this is what leadership boils down to. You don’t have to be a leader in harnessing this ability, though. It plays a key role in the outcome no matter what you do and where you are in your life and career. 
 Strategic thinking dictates what you decide to do and how you do it. When deciding what to do, most people jump on the most convenient option that is usually right in front of them. They don’t think through alternatives or the long-term impacts. It is easy to justify a decision when it has some certain upside. You know you will not ruin your life as long as you avoid the obviously wrong path and pay adequate attention to the downside. However, most people dismiss the comparison of upside with downside across various alternatives and over different horizons, especially a longer horizon.
