@@ -1,4 +1,4 @@
-## 2022/1/31
+## Decentralization
 
 Everything works in cycles.
 
