@@ -1,0 +1,9 @@
+## Listening
+
+Just like there are different types of personalities, there can be different types of listeners. Some people are content listeners who focus on detail. Some are story listeners who lean on the narratives. And some are people listeners who focus on emotions.
+
+Regardless of what type of listener we are, one meta solution to be a better listener is simply to focus on the picture in the other’s head. A lot of what happens during listening is ‘interpretation’. The key, however, is to interpret from the other’s perspective, not from our perspective. In a practical sense, this means assuming less. Because a lot of the interpretation happens unconsciously through pattern recognition, assumptions can easily lead to wrong conclusions when the other person thinks and communicates differently from us. What’s worse, once there is a misunderstanding, negative emotions tend to follow and may obstruct our judgment even further. So rather than assuming and speculating, we should just ask questions if there is anything that is not clear.
+
+One mistake many tend to make is to listen selectively. Most of us have a hard time digesting the contents as a whole. Rather, we process what we hear in pieces and react to the portion that stimulates us the most. We either focus too much on some specific detail or jump to the conclusion too quickly. We fail to understand the big picture and the real intention as a result. That’s why listening is a skill and needs to be worked on with the same dedication as reading. But many of us overlooked this.
+
+Another part of listening is to listen for emotion. This means paying attention to the tones and the non-verbal part of the conversation. However, it is important not to overdo it. Emotion is powerful and penetrable. It is also hard to grapple. Try to read, understand, but don’t over-rely on it. And always keep an arm’s length from the other’s emotions.
