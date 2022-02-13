@@ -2,16 +2,16 @@
 
 Negative emotions pop up from time to time. Emotions impact people differently, some more, some less. Regardless of your type, you can count on them to occur. And they can be in different forms: agitation, stress, sadness, upsetness, anxiety, you name it. And it would help if you learn to work with them, rather than resist. I am a feeling-driven person, so emotions have an above-average impact on me. Over time, I have learned different ways to manage my emotions and am ready to share (disclosure: I am still working progress).
 
-## Step 1. Take a Step Back
+## Step 1. Take A Step Back
 Negative emotions usually come from the negative stories we make up in our heads. We can recognize the falsehood of the stories when we can think rationally, but not when we are a bag of negative emotions. And the worst thing you can do at that point is to fall prey to the victim mindset and keep adding new plots to that story. However, it can be challenging to stop that spinning wheel when you are in the center of an emotional vortex. That's why you need some help from various forms of distractions. Here are my three 'go-to' distractions these days.
 
-### Walking around
+### Walking Around
 Walking around has been a very effective way to stop my brain from sabotaging myself. Science supports this by showing that walking makes us feel that we are 'moving forward' from an evolutionary standpoint, and that helps alleviate stress and anxiety. In my case, walking around and seeing different scenery gives me a sense of wonder. It reminds me of how grand this world is and how trivial our problems look in the grand scheme of the universe. Being in nature works the best in that sense. But living in New York City means my access to mountains or waters is limited. As an alternative, I do a lot of 'urban hikes' where I walk around in different neighborhoods, especially areas I am not familiar with. That way, I get that sense of wonder through exploring and discovering new things.
 
-### Going to the gym and sweating it out
+### Going To The Gym And Sweating It Out
 People work out for different reasons. For me, a large part is about keeping myself sane. A daily dose of it keeps me focused. I also develop a system of using different workout routines to tackle emotions. Boxing works well for managing anger and upsetness. Strength training helps with destressing. I go for a Zumba dance when feeling unmotivated and mentally drained. I am not very strict about this mapping, though. And you should not either. In general, any exercise helps when you are not feeling well mentally.
 
-### Breathing and meditating
+### Breathing And Meditating
 These two are very connected. You probably cannot practice meditation without practicing breathing. But breathing alone can help. As simple as it is, breathing can do miracles to our brains. Try deep breathing ten times, and you will see what I mean. 
 
 Meditation, on the other hand, takes more practice. It may not be pleasant at the beginning because you are essentially forcing yourself to face your thoughts and emotions. And that confrontation can trigger unpleasant sensations. The key is to learn to accept and acknowledge negative feelings when they arise. And this reaction function takes time to build. And that's why meditation is less a 'first-add' tool but more a 'prevention' tool. You have to consistently practice and train your mental muscle so that you can count on them when you need them.
@@ -24,7 +24,7 @@ This step is about defining and accepting your emotions and using your emotions 
 ### Journaling
 Journaling is a great way to capture your feelings and thoughts and establish connections between the two. Our thoughts are what cause us to feel. But we usually experience a lot of them simultaneously. All knitted together, they become impossible to understand and track. Writing provides a way to do that. Once you put down your thoughts on paper, you have a better chance of seeing the connection. In my experience, my writing usually starts with random notes at the surface value with no pattern. It would be only after a few paragraphs that I notice myself start peeling off the first layer and revealing what is going on under the hood. And it will take some extra writing to introspect and analyze my thoughts and understand why certain thoughts contribute to specific feelings or emotions.
 
-### Talking to someone
+### Talking To Someone
 Talking to someone helps. It can be someone you are close to if you are one of the luckiest people who have a strong support system. I try not to use this one often because I don't believe anyone should be my trash can for negative emotions. But from time to time, I talk to the closest people in my life and use them as a sounding board to talk out my feelings. It is essential to tell your audience you are probably not looking for suggestions or advice, and you simply want them to listen. In other words, you want to talk to yourself, but you need an audience, and you need their sympathy. If you are honest about what you are actually looking for, you should also realize how ridiculous these requests can be and how tiring and draining 'just listening' can be for the other person. That's why you should not take for granted other people's willingness to be there for you.
 
 That's why some of my friends go to professional therapists for this. But unfortunately, going to a therapist is still stigmatized in China as people believe only the truly crazy and mentally insane need help like this. It is also not very common in the US, primarily because of the price. But if you can afford it, it can be a great way to have a conversation with yourself because therapists are trained to listen and guide such talks.
