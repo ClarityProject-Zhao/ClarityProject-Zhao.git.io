@@ -1,4 +1,4 @@
-## Happiness
+# Happiness
 
 What is happiness? It often correlates with feeling peace. You want to be in peace with reality, with who you are, and with everything and everyone around you.
 
