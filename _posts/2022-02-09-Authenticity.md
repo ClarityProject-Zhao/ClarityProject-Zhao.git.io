@@ -1,4 +1,4 @@
-## Autheticity
+# Autheticity
 
 The most successful people are those who can be themselves. Authenticity helps build grit. Authenticity supports a strong network.
 
