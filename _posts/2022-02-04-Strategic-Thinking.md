@@ -1,4 +1,4 @@
-## Strategic Thinking
+# Strategic Thinking
 
 Society nowadays rewards strategic thinking much more than most people realize. In a way, this is what leadership boils down to. You don’t have to be a leader in harnessing this ability, though. It plays a key role in the outcome no matter what you do and where you are in your life and career. 
 
