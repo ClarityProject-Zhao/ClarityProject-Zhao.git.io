@@ -1,4 +1,4 @@
-# Embrace Negative Emotions
+# Negative Emotions
 
 Negative emotions pop up from time to time. Emotions impact people differently, some more, some less. Regardless of your type, you can count on them to occur. And they can be in different forms: agitation, stress, sadness, upsetness, anxiety, you name it. And it would help if you learn to work with them, rather than resist. I am a feeling-driven person, so emotions have an above-average impact on me. Over time, I have learned different ways to manage my emotions and am ready to share (disclosure: I am still working progress).
 
