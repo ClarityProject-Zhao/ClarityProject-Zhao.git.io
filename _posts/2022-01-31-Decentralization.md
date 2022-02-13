@@ -1,4 +1,4 @@
-## Decentralization
+# Decentralization
 
 Everything works in cycles.
 
