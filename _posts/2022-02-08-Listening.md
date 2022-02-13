@@ -1,4 +1,4 @@
-## Listening
+# Listening
 
 Just like there are different types of personalities, there can be different types of listeners. Some people are content listeners who focus on detail. Some are story listeners who lean on the narratives. And some are people listeners who focus on emotions.
 
