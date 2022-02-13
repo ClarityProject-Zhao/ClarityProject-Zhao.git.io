@@ -1,4 +1,4 @@
-## Possessions
+# Possessions
 
 It is easy to dismiss foundational things you already have: health, family, people who support you no matter what. They are the grounds you build your life on. But you don’t get reminded of them often, not like the other one thousand desires you have that float in the sky. You only think of them when you start to lose them.
 We have very asymmetric relationships with our possessions. It seems that we can never measure their values correctly. We desire new shining things in our lives. When we don’t have them, they seem like the best things in the world. And we strive very hard to chase them, often at the cost of things we already have or could have more effortlessly, that sound boring and look trivial at that point. The journey of chasing can be a long process. And most of us are not enjoying the process either and are solely driven by the rewards. But the sad truth is, even when we eventually get those things, the joy only lasts for a short moment. Before we know it, we start feeling unsatisfied again and need a new target to shoot.
