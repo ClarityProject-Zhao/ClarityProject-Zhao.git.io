@@ -1,4 +1,4 @@
-## Innovation
+# Innovation
 
 Are the Chinese less innovative? Yes and no. Back in time, the ancient Chinese contributed to many significant inventions. They led the innovation in many fields, starting from the 1st century BC to the medieval age. The most known examples include Greatest Four Inventions, namely, papermaking, printing, gunpowder, and the compass, as summarized in the modern-day Chinese history book.
 
