@@ -1,4 +1,4 @@
-# Creative Chain
+# Be a Creator
 
 We consume more things than we probably realize. We consume not just goods but also information and knowledge. When we consume things, someone else gets paid to create those things. So the more you create on a net basis, the more you get rewarded. And the higher up you are in the creative chain, the more leverage you have to create.
 
