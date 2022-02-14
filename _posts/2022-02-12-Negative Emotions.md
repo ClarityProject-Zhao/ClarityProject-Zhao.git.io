@@ -2,13 +2,13 @@
 
 Negative emotions pop up from time to time. Emotions impact people differently, some more, some less. Regardless of your type, you can count on them to occur. And they can be in different forms: agitation, stress, sadness, upsetness, anxiety, you name it. And it would help if you learn to work with them, rather than resist. I am a feeling-driven person, so emotions have an above-average impact on me. Over time, I have learned different ways to manage my emotions and am ready to share (disclosure: I am still a work in progress).
 
-## Step 1. Take A Step Back
+## Step 1. Take a Step Back
 Negative emotions usually come from the negative stories we make up in our heads. We can recognize the falsehood of the stories when we can think rationally, but not when we are a bag of negative emotions. And the worst thing you can do at that point is to fall prey to the victim mindset and keep adding new plots to that story. However, it can be challenging to stop that spinning wheel when you are in the center of an emotional vortex. That's why you need some help from various forms of distractions. Here are my three 'go-to' distractions these days.
 
 ### Walking Around
 Walking around has been a very effective way to stop my brain from sabotaging myself. Science supports this by showing that walking makes us feel that we are 'moving forward' from an evolutionary standpoint, and that helps alleviate stress and anxiety. In my case, walking around and seeing different scenery gives me a sense of wonder. It reminds me of how grand this world is and how trivial our problems look in the grand scheme of the universe. Being in nature works the best in that sense. But living in New York City means my access to mountains or waters is limited. As an alternative, I do a lot of 'urban hikes' where I walk around in different neighborhoods, especially areas I am not familiar with. That way, I get that sense of wonder through exploring and discovering new things.
 
-### Going To The Gym And Sweating It Out
+### Going to the Gym and Sweating It Out
 People work out for different reasons. For me, a large part is about keeping myself sane. A daily dose of it keeps me focused. I also develop a system of using different workout routines to tackle emotions. Boxing works well for managing anger and upsetness. Strength training helps with destressing. I go for a Zumba dance when feeling unmotivated and mentally drained. I am not very strict about this mapping, though. And you should not either. In general, any exercise helps when you are not feeling well mentally.
 
 ### Breathing And Meditating
