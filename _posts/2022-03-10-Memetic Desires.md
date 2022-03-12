@@ -1,4 +1,4 @@
-# Mememic Desires
+# Memetic Desires
 
 People desire what others desire. Rene Girand called this memetic desire. He argued that most of our desires don’t come from within but are imitations of others’ desires.
 It is a powerful theory. In fact, if you carefully examine all the common desires and think from the perspective of social imitation, you can see memetic desires everywhere. Even our most ‘original’ desires can be traced back to some long-forgotten seeds that were planted inside us from outside inputs, such as an idol we look up to, a story that inspired us, etc.
