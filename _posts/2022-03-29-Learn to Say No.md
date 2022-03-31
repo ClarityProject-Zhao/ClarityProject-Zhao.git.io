@@ -1,4 +1,4 @@
-# Say No
+# Learn to Say No
 
 The downside of being boundlessly curious is the anxiety from knowing one can not explore everything.
 
