@@ -2,7 +2,7 @@
 
 A lot of times, I struggle with the thoughts of ‘what if’. What if I moved abroad at a young age? What if I studied social science in college? What if I did not work in finance?
 
-I used to talk myself off these thoughts believing they were not productive thoughts that could help me move forward. I even criticized myself for not being grateful enough for my current situation.
+I used to try to talk myself off these thoughts when they occurred, believing they were not productive thoughts that could help move me forward. I even criticized myself for not being grateful enough for my current situation.
 
 Over time, I learned to look at my thoughts from a different lens: these thoughts may not be productive, but they still deserve their space. Underpinning these ‘what if’s are no illusions that we can go back and change what has happened but intertwined emotions such as sorrow, remorse, curiosity, and hope: the sorrow about our ephemeral life, the remorse about not figuring out certain things earlier, the curiosity about the still expansive possibilities, and the hope of the next chapter with my life. They are telling a story of my own.
 
